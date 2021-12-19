@@ -1,0 +1,9 @@
+# blog page sections
+- name: basic
+  href: '/basic/'
+
+- name: 모각코
+  href: '/mgc/'
+
+- name: instruction
+  href: '/instruction/'
