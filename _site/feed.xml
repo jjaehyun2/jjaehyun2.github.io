@@ -1,61 +1,218 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://future-imperfect.kaptn.ru/feed.xml" rel="self" type="application/atom+xml" /><link href="https://future-imperfect.kaptn.ru/" rel="alternate" type="text/html" /><updated>2021-12-20T04:14:04+09:00</updated><id>https://future-imperfect.kaptn.ru/feed.xml</id><title type="html">Github Blog</title><subtitle>Blog with theme Future Imperfect&lt;br&gt;
-</subtitle><author><name>유채민</name><email>vika@kaptn.ru</email></author><entry><title type="html">2021-22 동계 모각코 개인별 목표 설정</title><link href="https://future-imperfect.kaptn.ru/mgc/2021/dfsef.html" rel="alternate" type="text/html" title="2021-22 동계 모각코 개인별 목표 설정" /><published>2021-12-20T03:30:00+09:00</published><updated>2021-12-20T03:30:00+09:00</updated><id>https://future-imperfect.kaptn.ru/mgc/2021/dfsef</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/mgc/2021/dfsef.html">&lt;h2 id=&quot;하계-모각코-개인-목표-설정&quot;&gt;하계 모각코 개인 목표 설정&lt;/h2&gt;
-&lt;h3 id=&quot;학번-이름--202102552-유채민&quot;&gt;😀학번, 이름 : 202102552, 유채민&lt;/h3&gt;
-&lt;h3 id=&quot;목표--코틀린-이용한-안드로이드-화면-디자인&quot;&gt;🎡목표 : 코틀린 이용한 안드로이드 화면 디자인&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://future-imperfect.kaptn.ru/feed.xml" rel="self" type="application/atom+xml" /><link href="https://future-imperfect.kaptn.ru/" rel="alternate" type="text/html" /><updated>2021-12-20T05:42:41+09:00</updated><id>https://future-imperfect.kaptn.ru/feed.xml</id><title type="html">Github Blog</title><subtitle>Blog with theme Future Imperfect&lt;br&gt;
+</subtitle><author><name>유채민</name><email>vika@kaptn.ru</email></author><entry><title type="html">2021-22 동계 모각코 개인별 목표 설정</title><link href="https://future-imperfect.kaptn.ru/mgc/2021/2021-22.html" rel="alternate" type="text/html" title="2021-22 동계 모각코 개인별 목표 설정" /><published>2021-12-20T03:30:00+09:00</published><updated>2021-12-20T03:30:00+09:00</updated><id>https://future-imperfect.kaptn.ru/mgc/2021/2021-22</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/mgc/2021/2021-22.html">&lt;h2 id=&quot;하계-모각코-개인-목표-설정&quot;&gt;하계 모각코 개인 목표 설정&lt;/h2&gt;
+&lt;h3 id=&quot;학번-이름--202102542-김재현&quot;&gt;😀학번, 이름 : 202102542, 김재현&lt;/h3&gt;
+&lt;h3 id=&quot;목표--코틀린-공부&quot;&gt;🎡목표 : 코틀린 공부&lt;/h3&gt;
 
 &lt;h3 id=&quot;일정-&quot;&gt;📄일정 :&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;1회차[1/13],  코틀린 개인별 학습&lt;/li&gt;
+  &lt;li&gt;1회차[1/13],  코틀린이란?&lt;/li&gt;
   &lt;li&gt;2회차[1/16],  발표&lt;/li&gt;
-  &lt;li&gt;3회차[1/20],  안드로이드 클라이언트 디자인 by 자바&lt;/li&gt;
+  &lt;li&gt;3회차[1/20],  코틀린 if when for while 학습&lt;/li&gt;
   &lt;li&gt;4회차[1/23],  발표&lt;/li&gt;
-  &lt;li&gt;5회차[1/27],  코틀린으로 디자인&lt;/li&gt;
+  &lt;li&gt;5회차[1/27],  코틀린 문제풀이 at 백준&lt;/li&gt;
   &lt;li&gt;6회차[1/30],  발표&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>유채민</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">하계 모각코 개인 목표 설정 😀학번, 이름 : 202102552, 유채민 🎡목표 : 코틀린 이용한 안드로이드 화면 디자인</summary></entry><entry><title type="html">회고</title><link href="https://future-imperfect.kaptn.ru/mgc/2021/210805.html" rel="alternate" type="text/html" title="회고" /><published>2021-08-05T22:00:00+09:00</published><updated>2021-08-05T22:00:00+09:00</updated><id>https://future-imperfect.kaptn.ru/mgc/2021/210805</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/mgc/2021/210805.html">&lt;p&gt;모각코 소동아리 활동을 통해 지난 학기에서 배운 자바의 복습과 심화과정을 공부할 수 있었습니다.
-2학기에 자바 심화내용을 배우는 과목과 프로젝트 수업 때문에 고민이 많았는데 이 기회를 통해
-공부하고 다른 분들의 코드 또한 보고 보완할 수 있는 기회가 있어서 여러 관점을 배운 것 같습니다.
-또한 깃허브 사용버에 대해서도 조금은 알 수 있었고 이를 통해 깃허브를 계속 활용해 가며 저의 기록과 여러 프로젝트 ,
-포트폴리오를 채울 수 있을 것 같습니다.&lt;/p&gt;</content><author><name>유채민</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">모각코 소동아리 활동을 통해 지난 학기에서 배운 자바의 복습과 심화과정을 공부할 수 있었습니다. 2학기에 자바 심화내용을 배우는 과목과 프로젝트 수업 때문에 고민이 많았는데 이 기회를 통해 공부하고 다른 분들의 코드 또한 보고 보완할 수 있는 기회가 있어서 여러 관점을 배운 것 같습니다. 또한 깃허브 사용버에 대해서도 조금은 알 수 있었고 이를 통해 깃허브를 계속 활용해 가며 저의 기록과 여러 프로젝트 , 포트폴리오를 채울 수 있을 것 같습니다.</summary></entry><entry><title type="html">210722 결과</title><link href="https://future-imperfect.kaptn.ru/mgc/2021/210722_2.html" rel="alternate" type="text/html" title="210722 결과" /><published>2021-07-22T23:00:00+09:00</published><updated>2021-07-22T23:00:00+09:00</updated><id>https://future-imperfect.kaptn.ru/mgc/2021/210722_2</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/mgc/2021/210722_2.html">&lt;p&gt;&lt;strong&gt;발표 및 전 시간 코드 리뷰&lt;/strong&gt;&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>유채민</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">하계 모각코 개인 목표 설정 😀학번, 이름 : 202102542, 김재현 🎡목표 : 코틀린 공부</summary></entry><entry><title type="html">jekyll 설치 중 오류 나는 경우</title><link href="https://future-imperfect.kaptn.ru/instruction/2021/jekyll.html" rel="alternate" type="text/html" title="jekyll 설치 중 오류 나는 경우" /><published>2021-06-23T09:00:00+09:00</published><updated>2021-06-23T09:00:00+09:00</updated><id>https://future-imperfect.kaptn.ru/instruction/2021/jekyll</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/instruction/2021/jekyll.html">&lt;h3 id=&quot;오류&quot;&gt;오류:&lt;/h3&gt;
+
+&lt;p&gt;#gem install jekyll Building native extensions. This could take a while… ERROR: Error installing jekyll: ERROR: Failed to build gem native extension.&lt;/p&gt;
+
+&lt;p&gt;current directory: /var/lib/gems/2.7.0/gems/eventmachine-1.2.7/ext /usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20210623-5375-1iun7he.rb extconf.rb mkmf.rb can’t find header files for ruby at /usr/lib/ruby/include/ruby.h&lt;/p&gt;
+
+&lt;p&gt;You might have to install separate package for the ruby development environment, ruby-dev or ruby-devel for example.&lt;/p&gt;
+
+&lt;p&gt;extconf failed, exit code 1&lt;/p&gt;
+
+&lt;p&gt;Gem files will remain installed in /var/lib/gems/2.7.0/gems/eventmachine-1.2.7 for inspection. Results logged to /var/lib/gems/2.7.0/extensions/x86_64-linux/2.7.0/eventmachine-1.2.7/gem_make.out&lt;/p&gt;
+
+&lt;h3 id=&quot;해결&quot;&gt;해결:&lt;/h3&gt;
+
+&lt;p&gt;sudo apt install build-essential ruby-dev make gcc&lt;/p&gt;</content><author><name>유채민</name><email>vika@kaptn.ru</email></author><category term="instruction" /><summary type="html">오류:</summary></entry><entry><title type="html">Blog Setup</title><link href="https://future-imperfect.kaptn.ru/instruction/2021/blog-setup.html" rel="alternate" type="text/html" title="Blog Setup" /><published>2021-06-23T07:00:00+09:00</published><updated>2021-06-23T07:00:00+09:00</updated><id>https://future-imperfect.kaptn.ru/instruction/2021/blog-setup</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/instruction/2021/blog-setup.html">&lt;p&gt;jeykll admin : https://github.com/jekyll/jekyll-admin/blob/master/README.md&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;requirement : ruby-bundler&lt;/li&gt;
+  &lt;li&gt;http://labs.brandi.co.kr/2018/05/14/chunbs.html&lt;/li&gt;
+  &lt;li&gt;Theme1: http://jekyllthemes.org/themes/israh/&lt;/li&gt;
+  &lt;li&gt;Theme2: http://jekyllthemes.org/themes/Pinghsu-Theme/&lt;/li&gt;
+  &lt;li&gt;Theme3: http://jekyllthemes.org/themes/Kross-portfolio-theme/&lt;/li&gt;
+  &lt;li&gt;Theme4(*): http://jekyllthemes.org/themes/future-imperfect/&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>유채민</name><email>vika@kaptn.ru</email></author><category term="instruction" /><summary type="html">jeykll admin : https://github.com/jekyll/jekyll-admin/blob/master/README.md</summary></entry><entry><title type="html">Readme</title><link href="https://future-imperfect.kaptn.ru/instruction/2018/readme.html" rel="alternate" type="text/html" title="Readme" /><published>2018-02-20T21:00:00+09:00</published><updated>2018-02-20T21:00:00+09:00</updated><id>https://future-imperfect.kaptn.ru/instruction/2018/readme</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/instruction/2018/readme.html">&lt;p&gt;&lt;a href=&quot;https://blog.kaptn.ru&quot;&gt;https://blog.kaptn.ru&lt;/a&gt; - demo&lt;br /&gt;
+&lt;a href=&quot;https://github.com/vikapitoshka/blog/&quot;&gt;https://github.com/vikapitoshka/blog/&lt;/a&gt; - repository&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://opensource.org/licenses/mit-license.php&quot;&gt;&lt;img src=&quot;https://badges.frapsoft.com/os/mit/mit.svg?v=103&quot; alt=&quot;MIT Licence&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://github.com/ellerbrock/open-source-badge/&quot;&gt;&lt;img src=&quot;https://badges.frapsoft.com/os/v1/open-source.png?v=103&quot; alt=&quot;Open Source Love&quot; /&gt;&lt;/a&gt;
+&lt;img src=&quot;https://cdn.rawgit.com/ViKapitoshka/blog/4ccc6d6a/readme_files/screen.png&quot; alt=&quot;Future Imperfect Theme preview&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;조원들의 발표듣고 이해하기 : clear&lt;/li&gt;
-  &lt;li&gt;발표하고 전 시간 코드 리뷰하기 : clear&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#installation&quot;&gt;Installation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#usage&quot;&gt;Usage&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#content-management&quot;&gt;Content management&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#template&quot;&gt;Template&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#example-of-post&quot;&gt;Example of post&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#category-page&quot;&gt;Category page&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#features&quot;&gt;Features&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#categories&quot;&gt;Categories&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#comments&quot;&gt;Comments&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#icons&quot;&gt;Icons&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#post-image&quot;&gt;Post Image&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#featured-image&quot;&gt;Featured image&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#edit-link&quot;&gt;Edit link&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#web-analytics&quot;&gt;Web analytics&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#upgrading-theme&quot;&gt;Upgrading Theme&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#thanks-to-the-following&quot;&gt;Thanks to the following&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#todo&quot;&gt;Todo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#donate&quot;&gt;Donate&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#copyright-and-license&quot;&gt;Copyright and license&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;이룬 점 : 심화학습 내용 이해하기, 코드 리뷰 이해&lt;/p&gt;</content><author><name>유채민</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">발표 및 전 시간 코드 리뷰</summary></entry><entry><title type="html">210722 모각코 목표</title><link href="https://future-imperfect.kaptn.ru/mgc/2021/210722_1.html" rel="alternate" type="text/html" title="210722 모각코 목표" /><published>2021-07-22T20:00:00+09:00</published><updated>2021-07-22T20:00:00+09:00</updated><id>https://future-imperfect.kaptn.ru/mgc/2021/210722_1</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/mgc/2021/210722_1.html">&lt;p&gt;&lt;strong&gt;발표 및 전 시간 코드 리뷰&lt;/strong&gt;&lt;/p&gt;
-
+&lt;h2 id=&quot;installation&quot;&gt;Installation&lt;/h2&gt;
 &lt;ol&gt;
-  &lt;li&gt;조원들의 발표듣고 이해하기.&lt;/li&gt;
-  &lt;li&gt;발표하고 전 시간 코드 리뷰하기.&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>유채민</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">발표 및 전 시간 코드 리뷰</summary></entry><entry><title type="html">210719 결과</title><link href="https://future-imperfect.kaptn.ru/mgc/2021/210719_2.html" rel="alternate" type="text/html" title="210719 결과" /><published>2021-07-19T23:00:00+09:00</published><updated>2021-07-19T23:00:00+09:00</updated><id>https://future-imperfect.kaptn.ru/mgc/2021/210719_2</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/mgc/2021/210719_2.html">&lt;p&gt;&lt;strong&gt;BufferedWriter &amp;amp;&amp;amp; BufferedReader 공부 및 발표자료 제작&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/assets/3st.pptx&quot;&gt;3st.pptx&lt;/a&gt;&lt;/p&gt;</content><author><name>유채민</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">BufferedWriter &amp;amp;&amp;amp; BufferedReader 공부 및 발표자료 제작</summary></entry><entry><title type="html">210719 모각코 목표</title><link href="https://future-imperfect.kaptn.ru/mgc/2021/210719_1.html" rel="alternate" type="text/html" title="210719 모각코 목표" /><published>2021-07-19T20:00:00+09:00</published><updated>2021-07-19T20:00:00+09:00</updated><id>https://future-imperfect.kaptn.ru/mgc/2021/210719_1</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/mgc/2021/210719_1.html">&lt;p&gt;&lt;strong&gt;자바 심화내용 공부&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;배경 : 여러 문제를 푸는 도중 스캐너 이용시 런타임오류의 가능성을 확인하고 buffer reader, writer 사용의 필요성을 느낌&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Buffered reader&lt;/li&gt;
-  &lt;li&gt;Buffered writer&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>유채민</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">자바 심화내용 공부</summary></entry><entry><title type="html">210715 결과</title><link href="https://future-imperfect.kaptn.ru/mgc/2021/210715_2.html" rel="alternate" type="text/html" title="210715 결과" /><published>2021-07-15T23:00:00+09:00</published><updated>2021-07-15T23:00:00+09:00</updated><id>https://future-imperfect.kaptn.ru/mgc/2021/210715_2</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/mgc/2021/210715_2.html">&lt;p&gt;&lt;strong&gt;목표  :  실습 문제풀이 하며 자바 복습&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Icecream : 발표완료&lt;/li&gt;
-  &lt;li&gt;kingdom : 다음주까지 각자 문풀 후 설명 예정&lt;/li&gt;
+  &lt;li&gt;Download, clone or fork repo &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git clone git@github.com:vikapitoshka/blog.git&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Enter the folder: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;cd blog/&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Start Jekyll server: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll s&lt;/code&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;이룬 점 : 난이도 높은 문제를 풀음. 각 코드를 보며 보완함.
-이루지 못한 점 : 남은 문제를 풀 시간이 없었음. 다음주에 발표 예정.&lt;/p&gt;</content><author><name>유채민</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">목표 : 실습 문제풀이 하며 자바 복습</summary></entry><entry><title type="html">210715 모각코 목표</title><link href="https://future-imperfect.kaptn.ru/mgc/2021/210715_1.html" rel="alternate" type="text/html" title="210715 모각코 목표" /><published>2021-07-15T20:00:00+09:00</published><updated>2021-07-15T20:00:00+09:00</updated><id>https://future-imperfect.kaptn.ru/mgc/2021/210715_1</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/mgc/2021/210715_1.html">&lt;p&gt;&lt;strong&gt;발표 및 Q&amp;amp;A&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Access, &lt;a href=&quot;http://localhost:4000&quot;&gt;localhost:4000&lt;/a&gt;&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;코드 및 설명 발표 후 수정할 부분이나 개선할 점 토의하기&lt;/li&gt;
-  &lt;li&gt;다른 발표자의 코드 혹은 공부한 내용 듣고 이해하기&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>유채민</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">발표 및 Q&amp;amp;A</summary></entry><entry><title type="html">210712 결과</title><link href="https://future-imperfect.kaptn.ru/mgc/2021/210712_2.html" rel="alternate" type="text/html" title="210712 결과" /><published>2021-07-12T23:00:00+09:00</published><updated>2021-07-12T23:00:00+09:00</updated><id>https://future-imperfect.kaptn.ru/mgc/2021/210712_2</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/mgc/2021/210712_2.html">&lt;p&gt;&lt;strong&gt;목표  :  실습 문제풀이 하며 자바 복습&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&quot;usage&quot;&gt;Usage&lt;/h2&gt;
+&lt;p&gt;If you’re completely new to Jekyll, I recommend checking out the documentation at &lt;a href=&quot;http://jekyllrb.com&quot;&gt;http://jekyllrb.com&lt;/a&gt; or there’s a tutorial by Smashing Magazine.&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;Icecream : clear&lt;/li&gt;
-  &lt;li&gt;kingdom : clear&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>유채민</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">목표 : 실습 문제풀이 하며 자바 복습</summary></entry><entry><title type="html">210712 모각코 목표</title><link href="https://future-imperfect.kaptn.ru/mgc/2021/210712_1.html" rel="alternate" type="text/html" title="210712 모각코 목표" /><published>2021-07-12T20:00:00+09:00</published><updated>2021-07-12T20:00:00+09:00</updated><id>https://future-imperfect.kaptn.ru/mgc/2021/210712_1</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/mgc/2021/210712_1.html">&lt;p&gt;&lt;strong&gt;목표  :  실습 문제풀이 하며 자바 복습&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;icecream&lt;/li&gt;
-  &lt;li&gt;kingdom&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>유채민</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">목표 : 실습 문제풀이 하며 자바 복습 icecream kingdom</summary></entry></feed>
+&lt;p&gt;If you have any questions please ask me at &lt;a href=&quot;https://github.com/vikapitoshka/blog/issues&quot;&gt;GitHub Issues&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;content-management&quot;&gt;Content management&lt;/h2&gt;
+&lt;h3 id=&quot;template&quot;&gt;Template&lt;/h3&gt;
+&lt;p&gt;Template of posts setting is in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_drafts/template.md&lt;/code&gt;. &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Layout&lt;/code&gt; is always named &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;post&lt;/code&gt;. &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Title&lt;/code&gt; is a title of post, writing in quotation marks. &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Date&lt;/code&gt; written in the following format: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;yyyy-mm-dd hh:mm&lt;/code&gt;. In &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;category&lt;/code&gt; specifies one category. In &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;icon&lt;/code&gt; written the name of icon (its in the folder &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;images&lt;/code&gt;). In &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;tags&lt;/code&gt; is possible to write multiple tags using a comma. In &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;image&lt;/code&gt; specify the path to image preview (can not fill). And in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;preview&lt;/code&gt; you can write &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;0&lt;/code&gt; to on the main page didn’t show the announcement of the post.&lt;/p&gt;
+
+&lt;p&gt;More details about all features and setting can be view on &lt;a href=&quot;#features&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;example-of-post&quot;&gt;Example of post&lt;/h3&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;layout: post
+title:  &quot;Lorem&quot;
+date:   2017-06-04 00:00
+category: category_name
+icon: git
+keywords: tag1, tag2
+image: 1.png
+preview: 0
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;category-page&quot;&gt;Category page&lt;/h3&gt;
+&lt;p&gt;If you want to add a page of category you have to create folder with name of category and file &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;index.html&lt;/code&gt;, which should contain the following:&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;---
+layout: default
+title: Category1
+permalink: /category1/ 
+---
+
+&amp;lt;!-- categories.html --&amp;gt;
+
+ &amp;lt;!-- category - переменная из адреса сайта --&amp;gt;
+    &amp;lt;header&amp;gt;
+        &amp;lt;h1 class=&quot;cat-header&quot; style=&quot;text-align: center;&quot;&amp;gt;instruction2018readme.html&amp;lt;/h1&amp;gt;
+    &amp;lt;/header&amp;gt;
+
+    &amp;lt;style&amp;gt;
+        .cat-header:after {
+            background: #2ebaae;
+            content: '';
+            display: block;
+            height: 2px;
+            margin: 0.75em auto 0 auto;
+            position: relative;
+            width: 4em;
+            }
+    &amp;lt;/style&amp;gt;
+
+
+&amp;lt;section&amp;gt;
+    &amp;lt;ul class=&quot;posts&quot;&amp;gt;
+    	
+    &amp;lt;/ul&amp;gt;
+&amp;lt;/section&amp;gt;
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;You can see example in &lt;a href=&quot;https://github.com/vikapitoshka/blog/blob/master/category1&quot;&gt;here&lt;/a&gt; or &lt;a href=&quot;https://github.com/vikapitoshka/blog/blob/master/category2&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;features&quot;&gt;Features&lt;/h2&gt;
+&lt;h3 id=&quot;categories&quot;&gt;Categories&lt;/h3&gt;
+&lt;p&gt;In blog page, we categorize posts into several categories by url, all category pages use same template html file - &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_includes/category.html&lt;/code&gt;. Links of category in menu is in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_data.links.yml&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;For example: URL is &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;localhost:4000/category1&lt;/code&gt;. In &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_data.links.yml&lt;/code&gt; we define this category named category1, so in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_includes/category.html&lt;/code&gt; we get this URL(/category1/) and change it to my category(category1), then this page are posts about category1.&lt;/p&gt;
+
+&lt;h3 id=&quot;comments&quot;&gt;Comments&lt;/h3&gt;
+&lt;p&gt;I use &lt;a href=&quot;http://hypercomments.com&quot;&gt;HyperComments&lt;/a&gt; instead of other tool, Disqus, so it’s slower and don’t allows to anonymously send messages. Code of comment is in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_includes/comments&lt;/code&gt; and it included in every post.&lt;/p&gt;
+
+&lt;h3 id=&quot;icons&quot;&gt;Icons&lt;/h3&gt;
+&lt;p&gt;For categories I use svg-icons in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;images&lt;/code&gt;. Еhe icon is automatically assigned to the post by its category. The icon name must be &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;category_name.svg&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;post-image&quot;&gt;Post Image&lt;/h3&gt;
+&lt;p&gt;All images used in posts that are in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;post-image&lt;/code&gt; and its are categorized. For example, images in post of category1’s category is in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;post-img/category1&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;featured-image&quot;&gt;Featured image&lt;/h3&gt;
+&lt;p&gt;You can specify the preview image for post in &lt;a href=&quot;http://jekyllrb.com/docs/frontmatter/&quot;&gt;YAML Front Matter&lt;/a&gt;. In front matter called “image” to indicate the name of the image. The picture must be located in a category folder.  &lt;br /&gt;
+For example, we write post of category_name’s category. In folder &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;post-img/category_name&lt;/code&gt; put the preview image with the title “1.png” and in front matter write: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;image: 1.png&lt;/code&gt;. &lt;a href=&quot;https://github.com/ViKapitoshka/blog/blob/master/_posts/2017-06-08-learn-git4.md&quot;&gt;Example&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Also, in front matter you can control the announcement of record post. By default, the announcement consists of 35 words. Writing in the front matter called “preview” the number 0, the announcement will not be displayed for this entry. &lt;a href=&quot;https://github.com/ViKapitoshka/blog/blob/master/_posts/2017-06-08-learn-git4.md&quot;&gt;Example&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;edit-link&quot;&gt;Edit link&lt;/h3&gt;
+&lt;p&gt;All posts can be edited by users through link: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;github.com/vikapitoshka/blog/edit/master/_posts/2018-02-20-readme.md&lt;/code&gt; or &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;github.com/vikapitoshka/blog/edit/master/&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;web-analytics&quot;&gt;Web analytics&lt;/h3&gt;
+&lt;p&gt;I use &lt;a href=&quot;https://metrika.yandex.ru&quot;&gt;Yandex Metrika&lt;/a&gt; to do web analytics, you can choose either to realize it, just paste your code in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;includes/analytics.html&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;upgrading-theme&quot;&gt;Upgrading Theme&lt;/h2&gt;
+&lt;p&gt;Blog is always being improved by its users, so sometimes one may need to upgrade.&lt;/p&gt;
+
+&lt;p&gt;Ensure there’s an upstream remote&lt;/p&gt;
+
+&lt;p&gt;If &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git remote -v&lt;/code&gt; doesn’t have an upstream listed, you can do the following to add it:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git remote add upstream https://github.com/vikapitoshka/blog.git&lt;/code&gt;
+Pull in the latest changes&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git pull upstream gh-pages&lt;/code&gt;
+There may be merge conflicts, so be sure to fix the files that git lists if they occur. That’s it!&lt;/p&gt;
+
+&lt;h2 id=&quot;thanks-to-the-following&quot;&gt;Thanks to the following&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://html5up.net/&quot;&gt;HTML5Up&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://fontawesome.io/icons/&quot;&gt;Font Awesome&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://hypercomments.com&quot;&gt;HyperComments&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;todo&quot;&gt;TODO&lt;/h2&gt;
+&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Add 404 page&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Search system&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;Add fontawesome 5&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Add paginator&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;donate&quot;&gt;Donate&lt;/h2&gt;
+&lt;p&gt;In &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;includes/donate.html&lt;/code&gt; you’ll see form for donation, includes in every post.&lt;br /&gt;
+Also if this project let you enjoy your blog time, you can give me a cup of coffee :)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://money.yandex.ru/to/410013162271067/10&quot;&gt;Donate =)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;copyright-and-license&quot;&gt;Copyright and license&lt;/h2&gt;
+&lt;p&gt;The theme is taken Future Imperfect Theme from &lt;a href=&quot;https://html5up.net&quot;&gt;HTML5 UP&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;It is under &lt;a href=&quot;/LICENSE&quot;&gt;the MIT license&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Enjoy :yum:&lt;/p&gt;</content><author><name>유채민</name><email>vika@kaptn.ru</email></author><category term="instruction" /><summary type="html">https://blog.kaptn.ru - demo https://github.com/vikapitoshka/blog/ - repository</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://future-imperfect.kaptn.ru/1.jpg" /><media:content medium="image" url="https://future-imperfect.kaptn.ru/1.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Lorem ipsum</title><link href="https://future-imperfect.kaptn.ru/instruction/2017/lorem-ipsum.html" rel="alternate" type="text/html" title="Lorem ipsum" /><published>2017-06-03T00:00:00+09:00</published><updated>2017-06-03T00:00:00+09:00</updated><id>https://future-imperfect.kaptn.ru/instruction/2017/lorem-ipsum</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/instruction/2017/lorem-ipsum.html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</content><author><name>유채민</name><email>vika@kaptn.ru</email></author><category term="instruction" /><summary type="html">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://future-imperfect.kaptn.ru/1.jpg" /><media:content medium="image" url="https://future-imperfect.kaptn.ru/1.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
